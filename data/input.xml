@@ -1,0 +1,14 @@
+<persons>
+  <person>
+    <firstName>George</firstName>
+    <lastName>Washington</lastName>
+  </person>
+  <person>
+    <firstName>John</firstName>
+    <lastName>Adams</lastName>
+  </person>
+  <person>
+    <firstName>Thomas</firstName>
+    <lastName>Jefferson</lastName>
+  </person>
+</persons>
